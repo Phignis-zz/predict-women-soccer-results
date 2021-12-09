@@ -14,7 +14,7 @@
 
 ## Données exploitées
 >
-> Le fichier de données exploitées se trouve à l'arborescence suivante: [doc/datas/woman_international_cup_results.csv](doc/datas/woman_international_cup_results.csv)
+> Le fichier de données exploitées se trouve à l'arborescence suivante: [src/ressources/data/woman_international_cup_results.csv](src/ressources/data/woman_international_cup_results.csv)
 >
 > [lien vers le dataset](https://www.kaggle.com/martj42/womens-international-football-results)
 >

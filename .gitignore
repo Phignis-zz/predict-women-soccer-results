@@ -1,0 +1,4 @@
+# Gitignore pour ignorer des fichiers aux commits
+
+# ignore les locks de file odt et docx
+.~lock*

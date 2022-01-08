@@ -31,7 +31,12 @@
 
 ## Technologies utilisées
 >
-> Python 3.10, Matpotlib, Numpy, Pandas, skLearn (scikit-learn), Jupyter Notebook avec Google Colab
+> Python 3.10, Jupyter Notebook avec Google Colab
+>
+
+## Bibliothèques utilisées
+>
+> Matpotlib, Numpy, Pandas, skLearn (scikit-learn), Seaborn
 >
 
 ## Membres du projet
